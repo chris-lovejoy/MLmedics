@@ -7,3 +7,5 @@ An introductory exercise initially designed for 'Machine Learning for Healthcare
 
 Uses the **'Breast Cancer Wisconsin' Kaggle dataset** (available [here](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/downloads/breast-cancer-wisconsin-data.zip/2)) and **scikit-learn** (documentation [here](https://scikit-learn.org/)).
 
+Designed to be run in [Google Colab](https://colab.research.google.com/).
+
