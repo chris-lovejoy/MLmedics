@@ -9,3 +9,5 @@ Uses the **'Breast Cancer Wisconsin' Kaggle dataset** (available [here](https://
 
 Designed to be run in [Google Colab](https://colab.research.google.com/).
 
+Initial inspiration from [this exercise by CodeMD](http://codemd.co.uk/data-science-with-breast-cancer-data/).
+
