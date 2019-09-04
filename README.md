@@ -1,5 +1,5 @@
 # MLmedics
-Education content for healthcare professionals interested in machine learning
+Educational content for healthcare professionals interested in machine learning
 
 
 ### Breast_cancer_features.ipynb
