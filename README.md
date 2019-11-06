@@ -1,4 +1,4 @@
-# MLmedics
+# Machine Learning for Healthcare
 Educational exercises applying machine learning to healthcare
 
 ## Breast_cancer_features.ipynb
