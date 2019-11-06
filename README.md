@@ -17,4 +17,4 @@ Uses the **"Medical Appointment No Shows" Kaggle dataset** (available [here](htt
 
 Designed to be run in [Google Colab](https://colab.research.google.com/), but can be run elsewhere.
 
-Accompanying blog post describing the exercise in detail available [here](chrislovejoy.me/no-shows/).
+Accompanying blog post describing the exercise in detail available [here](https://chrislovejoy.me/no-shows/).
