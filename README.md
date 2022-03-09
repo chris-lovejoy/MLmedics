@@ -1,3 +1,7 @@
+NOTE: See [this updated repository](https://github.com/chris-lovejoy/CodingForMedicine) for latest version of these exercises.
+
+---
+
 # Machine Learning for Healthcare
 Educational exercises applying machine learning to healthcare
 
